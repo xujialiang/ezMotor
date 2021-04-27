@@ -1,0 +1,22 @@
+{
+  "name": "ezmotor",
+  "version": "1.0.0",
+  "description": "智能小车系列-动力系统",
+  "main": "MotorManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xujialiang/ezMotor.git"
+  },
+  "keywords": [
+    "ezmotor"
+  ],
+  "author": "xujialiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xujialiang/ezMotor/issues"
+  },
+  "homepage": "https://github.com/xujialiang/ezMotor#readme"
+}
